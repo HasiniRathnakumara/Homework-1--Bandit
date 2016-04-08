@@ -1,5 +1,5 @@
 # Homework-1--Bandit
-Course Material - university of Kelaniya
+
 ![1](https://cloud.githubusercontent.com/assets/18345584/14380135/98e4a926-fd9b-11e5-90f1-4e89e39b0306.PNG)
 ![2](https://cloud.githubusercontent.com/assets/18345584/14380139/9d2c9962-fd9b-11e5-82b2-e46f92209c1f.PNG)
 ![3](https://cloud.githubusercontent.com/assets/18345584/14380142/a293ffee-fd9b-11e5-8f30-93fe50861e0f.PNG)
